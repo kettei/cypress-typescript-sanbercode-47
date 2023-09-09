@@ -1,4 +1,4 @@
-# NOT DONE YET Cypress
+# ON PROCESS Cypress
 This automation is written in TypeScript (a strict syntactical superset of JavaScript and adds optional static typing to the language)
 
 ## Running Tests
